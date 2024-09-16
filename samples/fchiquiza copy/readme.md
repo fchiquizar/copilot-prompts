@@ -1,6 +1,8 @@
 ﻿# 🚀 fchiquiza2 copia Generate features for a new intranet project in Microsoft Whiteboard
 
-![Prompt query](./assets/flyer impre.jpg)
+![Demo of generating adaptivecard](./assets/flyerimpre.jpg)
+
+![Prompt query](./assets/flyerimpre.jpg)
 
 ## Summary
 
@@ -16,7 +18,7 @@ The prompt is designed to initiate the brainstorming process for planning a part
 
 ## Contributors 👨‍💻 # 🚀 fchiquiza copia
 
-[Jiten Parmar](https://github.com/Jitenparmar)
+[Jiten Parmar](https://github.com/fchiquizar)
 
 ## Version history
 
