@@ -1,4 +1,4 @@
-﻿# 🚀 fchiquiza2 copia Generate features for a new intranet project in Microsoft Whiteboard
+﻿# 🚀 fchiquizaUltima copia Generate features for a new intranet project in Microsoft Whiteboard
 
 ![Demo of generating adaptivecard](./assets/flyerimpre.jpg)
 
@@ -12,7 +12,7 @@ The prompt is designed to generate company party planning ideas like decoration,
 
 I want to plan a party for my company. we have low budget so we are planning to organize it by ourself. Can you please suggest some decoration ideas into table format. also we would like to cook 3 course pure vegeterian meal for dinner. please include recepies with ingrediants.
 
-## Description ℹ️ # 🚀 fchiquiza2 copia
+## Description ℹ️ # 🚀 fchiquizaUltima copia
 
 The prompt is designed to initiate the brainstorming process for planning a party in a small company. It provides clear guidelines for decorations, 3-course meals, meal recipes, and related ingredients. By focusing on user needs and company culture, the prompt aims to stimulate innovative thinking and identify potential solutions for planning amazing company events.
 
